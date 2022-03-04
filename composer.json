@@ -6,7 +6,9 @@
         "ramsey/uuid": "^4.2",
         "filp/whoops": "^2.14",
         "doctrine/orm": "^2.11",
-        "symfony/yaml": "4.4"
+        "symfony/yaml": "4.4",
+        "doctrine/annotations": "^1.13",
+        "symfony/cache": "^5.4"
     },
     "autoload": {
         "psr-4": {
