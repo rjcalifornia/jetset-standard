@@ -1,4 +1,9 @@
 {
+    "name": "jetset/jetset-standard",
+    "description": "An API project skeleton for the JetSet/Silex micro-framework",
+    "keywords": ["microframework"],
+    "license": "MIT",
+
     "require": {
         "nesbot/carbon": "^2.57",
         "vlucas/phpdotenv": "^5.4",

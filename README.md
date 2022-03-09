@@ -7,7 +7,7 @@
 <h3 align="center">JetSet</h3>
 
 <p align="center">
-  Fast, intuitive, and powerful PHP micro-framework to develop websites based on Symfony components.
+  A project skeleton for the fast, intuitive, and powerful JetSet/Silex PHP micro-framework.
   <br>
   <a href="#"><strong>Explore JetSet docs »</strong></a>
   <br>
