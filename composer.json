@@ -3,6 +3,7 @@
     "description": "An API project skeleton for the JetSet/Silex micro-framework",
     "keywords": ["microframework"],
     "license": "MIT",
+    "minimum-stability": "stable",
 
     "require": {
         "nesbot/carbon": "^2.57",
